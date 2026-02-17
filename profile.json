@@ -1,0 +1,164 @@
+{
+  "skills": [
+    {
+      "name": "TypeScript",
+      "tier": "core"
+    },
+    {
+      "name": "Node.js",
+      "tier": "core"
+    },
+    {
+      "name": "AWS",
+      "tier": "core"
+    },
+    {
+      "name": "GraphQL",
+      "tier": "core"
+    },
+    {
+      "name": "DynamoDB",
+      "tier": "core"
+    },
+    {
+      "name": "Serverless Framework",
+      "tier": "strong"
+    },
+    {
+      "name": "Lambda",
+      "tier": "strong"
+    },
+    {
+      "name": "PostgreSQL",
+      "tier": "strong"
+    },
+    {
+      "name": "Docker",
+      "tier": "strong"
+    },
+    {
+      "name": "CI/CD",
+      "tier": "strong"
+    },
+    {
+      "name": "Microservices",
+      "tier": "strong"
+    },
+    {
+      "name": "REST APIs",
+      "tier": "strong"
+    },
+    {
+      "name": "JavaScript",
+      "tier": "strong"
+    },
+    {
+      "name": "SQL",
+      "tier": "strong"
+    },
+    {
+      "name": "Redis",
+      "tier": "strong"
+    },
+    {
+      "name": "Fastify",
+      "tier": "strong"
+    },
+    {
+      "name": "Apollo Federation",
+      "tier": "strong"
+    },
+    {
+      "name": "JWT",
+      "tier": "strong"
+    },
+    {
+      "name": "Zod",
+      "tier": "strong"
+    },
+    {
+      "name": "Sentry",
+      "tier": "strong"
+    },
+    {
+      "name": "GitHub Actions",
+      "tier": "strong"
+    },
+    {
+      "name": "Nest.js",
+      "tier": "strong"
+    },
+    {
+      "name": "MongoDB",
+      "tier": "peripheral"
+    },
+    {
+      "name": "Go",
+      "tier": "peripheral"
+    }
+  ],
+  "titles": [
+    "Senior Backend Engineer",
+    "Senior Software Engineer",
+    "Mid Level Backend Engineer",
+    "Mid Level Software Engineer",
+    "Nodejs Developer",
+    "Nodejs Engineer"
+  ],
+  "keywords": [
+    "typescript",
+    "node.js",
+    "aws",
+    "graphql",
+    "dynamodb",
+    "serverless framework",
+    "lambda",
+    "postgresql",
+    "docker",
+    "ci/cd",
+    "microservices",
+    "rest apis",
+    "javascript",
+    "sql",
+    "redis",
+    "fastify",
+    "apollo federation",
+    "jwt",
+    "zod",
+    "sentry",
+    "github actions",
+    "nest.js",
+    "mongodb",
+    "go"
+  ],
+  "locations": [
+    "Sydney",
+    "Melbourne",
+    "Remote"
+  ],
+  "roles": [
+    "Senior Backend Engineer",
+    "Senior Software Engineer",
+    "Mid Level Backend Engineer",
+    "Mid Level Software Engineer",
+    "Nodejs Developer",
+    "Nodejs Engineer"
+  ],
+  "weights": {
+    "companyTier": 0.9,
+    "location": 1.3,
+    "titleMatch": 0.8,
+    "skills": 2,
+    "sponsorship": 0.9,
+    "recency": 1.4,
+    "culture": 0.6,
+    "quality": 1.2
+  },
+  "minScore": 65,
+  "maxHours": 72,
+  "resultsPerSearch": 20,
+  "excludeSeniority": [
+    "senior",
+    "mid"
+  ]
+}
